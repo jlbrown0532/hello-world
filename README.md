@@ -1,0 +1,2 @@
+# hello-world
+This repository is a collection of items that I have created over the last few years.  Excel Workbooks for Synthetic Division and Projectile Motion can be found here.  There are quite a few LaTeX documents.  There is also a short video of some 3D quadric surfaces from Calculus III.  Basically, anything that I created in the last six years of undergraduate study that I think a potential employer might want to see can be found here. 
